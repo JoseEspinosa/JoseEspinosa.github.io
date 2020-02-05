@@ -10,7 +10,7 @@ citation: 'J. Espinosa‐Carrasco, A. Burokas, M. Fructuoso, I. Erb, E. Martín�
 M. Gutiérrez‐Martos, C. Notredame, R. Maldonado, M. Dierssen. 
 Time-course and dynamics of obesity-related behavioral changes induced by energy-dense foods in mice, 
 Addiction Biology, 2018. 
-[https://doi.org/10.1111/adb.12595](https://doi.org/10.1111/adb.12595).
+DOI: 10.1111/adb.12595
 '
 
 ---

@@ -9,7 +9,7 @@ paperurl: 'https://academic.oup.com/nar/article/47/W1/W600/5491748'
 citation: 'J. Espinosa-Carrasco, T. Hermoso Pulido, I. Erb, M. Dierssen, J. Ponomarenko, C. Notredame, 
 Pergola-web: a web server for the visualization and analysis of longitudinal behavioral data using repurposed genomics 
 tools and standards, Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W600–W604.  
-[https://doi.org10.1093/nar/gkz414](https://doi.org10.1093/nar/gkz414).
+DOI: 10.1093/nar/gkz414
 '
 
 ---
