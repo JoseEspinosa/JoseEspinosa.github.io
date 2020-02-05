@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Jose Espinosa-Carrasco, PhD"
-  avatar           : "profile.png"
+  avatar           : "ich.jpg"
   bio              : "Bioinformatician"
   location         : "Barcelona"
   employer         : "Center for Genomic Regulation - CRG"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=jose+espinosa+carrascow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=jose+espinosa+carrasco"
   googlescholar    : "https://scholar.google.com/citations?user=gHX2ZjgAAAAJ&hl=en&oi=ao"
   email            : "espinosacarrascoj@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
