@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jose Espinosa-Carrasco / Site Title"
+title                    : "Jose Espinosa-Carrasco"
 title_separator          : "-"
 name                     : &name "Jose Espinosa-Carrasco"
 description              : &description "Biocoding"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jose Espinosa-Carrasco, PhD"
+  name             : "J. Espinosa-Carrasco, PhD"
   avatar           : "ich.jpg"
   bio              : "Bioinformatician"
   location         : "Barcelona"
