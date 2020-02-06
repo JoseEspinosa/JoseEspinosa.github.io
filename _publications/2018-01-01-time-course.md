@@ -31,5 +31,5 @@ rhythmicity. Mice receiving a chocolate‐mixture showed qualitatively similar c
 in a transient disruption of the feeding behavior and the circadian feeding rhytmicity. Strikingly, compulsive‐like 
 eating behavior is triggered immediately after exposure to both high‐fat food and chocolate‐mixture diet, well before 
 any changes in body weight could be observed. We propose these changes as behavioral biomarkers of prodromal states of 
-obesity that could allow early intervention..
+obesity that could allow early intervention.
 
